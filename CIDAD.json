@@ -1,0 +1,22 @@
+{
+  "etudian": [
+    {
+      "nom": "etienne",
+      "prenom": "clement",
+      "age": "25",
+      "addresse": "km"
+    },
+    {
+      "nom": "Mousse",
+      "prenom": "clement",
+      "age": "25",
+      "addresse": "km"
+    },
+    {
+      "nom": "etienne",
+      "prenom": "clement",
+      "age": "25",
+      "addresse": "km"
+    }
+  ]
+}
